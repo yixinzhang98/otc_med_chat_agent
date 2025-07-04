@@ -1,0 +1,318 @@
+Medication,Uses,Notes
+Acetaminophen,"Fever, pain relief",Not for liver issues
+Ibuprofen,"Pain, inflammation",May irritate stomach
+Diphenhydramine,"Allergy, sleep aid",Causes drowsiness
+Loratadine,Allergy,Non-drowsy option
+Lozenges,Sore throat,Throat pain relief
+Aspirin,"Pain, fever, inflammation",Not for children with viral infections
+Naproxen,"Pain, inflammation",Longer acting NSAID
+Cetirizine,Allergy,May cause mild drowsiness
+Fexofenadine,Allergy,Non-drowsy option
+Pseudoephedrine,Nasal congestion,May raise blood pressure
+Phenylephrine,Nasal congestion,Less effective than pseudoephedrine
+Dextromethorphan,Cough suppressant,Do not combine with MAOIs
+Guaifenesin,Chest congestion,Drink plenty of fluids
+Calcium carbonate,Heartburn,Antacid
+Loperamide,Diarrhea,Do not use with fever or blood in stool
+Bismuth subsalicylate,"Upset stomach, diarrhea",May darken stool/tongue
+Meclizine,Motion sickness,May cause drowsiness
+Hydrocortisone cream,Skin irritation,For external use only
+Polyethylene glycol,Constipation,Use as directed
+Simethicone,Gas relief,Generally well tolerated
+Clotrimazole,Yeast infection,Topical antifungal
+Bacitracin,Minor cuts,Topical antibiotic
+Saline nasal spray,Nasal dryness,Safe for most ages
+Artificial tears,Dry eyes,For external use only
+Aluminum hydroxide,Heartburn,Antacid
+Magnesium hydroxide,Constipation,May cause diarrhea
+Famotidine,Heartburn,Acid reducer
+Ranitidine,Heartburn,Withdrawn in some countries
+Omeprazole,Heartburn,Proton pump inhibitor
+Esomeprazole,Heartburn,Proton pump inhibitor
+Lansoprazole,Heartburn,Proton pump inhibitor
+Docusate,Constipation,Stool softener
+Bisacodyl,Constipation,Stimulant laxative
+Senna,Constipation,Stimulant laxative
+Psyllium,Constipation,Fiber supplement
+Methylcellulose,Constipation,Fiber supplement
+Mineral oil,Constipation,Use short term only
+Sodium bicarbonate,Heartburn,Short-term use
+Alginic acid,Heartburn,Forms protective barrier
+Lactase,Lactose intolerance,Take with dairy
+Alpha-galactosidase,Gas relief,Take with meals
+Beano,Gas relief,Brand of alpha-galactosidase
+Dimenhydrinate,Motion sickness,May cause drowsiness
+Scopolamine,Motion sickness,Prescription patch
+Calamine lotion,Itching,Topical use
+Diphenhydramine cream,Itching,Topical antihistamine
+Pramoxine,Itching,Topical anesthetic
+Benzocaine,Oral pain,Topical anesthetic
+Lidocaine,Local pain,Topical anesthetic
+Menthol,Muscle pain,Topical analgesic
+Camphor,Muscle pain,Topical analgesic
+Capsaicin,Muscle pain,May cause burning
+Miconazole,Yeast infection,Topical antifungal
+Terbinafine,Foot fungus,Topical antifungal
+Tolnaftate,Foot fungus,Topical antifungal
+Butenafine,Foot fungus,Topical antifungal
+Undecylenic acid,Foot fungus,Topical antifungal
+Zinc oxide,Diaper rash,Barrier cream
+Petrolatum,Minor skin irritation,Barrier cream
+Lanolin,Dry skin,Moisturizer
+Urea cream,Dry skin,Moisturizer
+Glycerin,Dry skin,Moisturizer
+Aloe vera gel,Sunburn,Soothing gel
+Hydrogen peroxide,Minor wounds,Antiseptic
+Isopropyl alcohol,Minor wounds,Antiseptic
+Povidone-iodine,Minor wounds,Antiseptic
+Neomycin,Minor cuts,Topical antibiotic
+Polymyxin B,Minor cuts,Topical antibiotic
+Triple antibiotic ointment,Minor cuts,Combination product
+Silver sulfadiazine,Burns,Topical antibiotic
+Benzoyl peroxide,Acne,Topical treatment
+Salicylic acid,Acne,Topical treatment
+Adapalene,Acne,Topical retinoid
+Tretinoin,Acne,Prescription retinoid
+Hydroquinone,Hyperpigmentation,Topical lightener
+Sunscreen,Sun protection,SPF 30+ recommended
+Permethrin,Lice,Topical treatment
+Pyrethrin,Lice,Topical treatment
+Malathion,Lice,Prescription treatment
+Lindane,Lice,Prescription treatment
+Crotamiton,Scabies,Topical treatment
+Ivermectin,Scabies,Prescription treatment
+Coal tar,Plaque psoriasis,Topical treatment
+Salicylic acid shampoo,Dandruff,Topical treatment
+Ketoconazole shampoo,Dandruff,Topical antifungal
+Selenium sulfide shampoo,Dandruff,Topical treatment
+Zinc pyrithione shampoo,Dandruff,Topical treatment
+Minoxidil,Hair loss,Topical solution
+Finasteride,Hair loss,Prescription oral
+Tamsulosin,Urinary symptoms,Prescription oral
+Phenazopyridine,Urinary pain,May discolor urine
+Methenamine,Urinary antiseptic,Prescription oral
+Cranberry extract,UTI prevention,Limited evidence
+Saw palmetto,Prostate health,Herbal supplement
+Glucosamine,Joint health,Herbal supplement
+Chondroitin,Joint health,Herbal supplement
+Melatonin,Sleep aid,May cause drowsiness
+Valerian root,Sleep aid,Herbal supplement
+Diphenhydramine PM,Sleep aid,May cause drowsiness
+Doxylamine,Sleep aid,May cause drowsiness
+Magnesium,Muscle cramps,Supplement
+Potassium,Electrolyte supplement,Use as directed
+Vitamin C,Immune support,Supplement
+Vitamin D,Bone health,Supplement
+Calcium,Bone health,Supplement
+Iron,Anemia,Supplement
+Folic acid,Pregnancy,Supplement
+Vitamin B12,Anemia,Supplement
+Vitamin B6,Nausea in pregnancy,Supplement
+Multivitamin,General health,Supplement
+Fish oil,Heart health,Omega-3 supplement
+Coenzyme Q10,Heart health,Supplement
+Probiotic,GI health,Live bacteria
+Prebiotic,GI health,Fiber supplement
+Electrolyte solution,Dehydration,Oral rehydration
+Oral rehydration salts,Dehydration,WHO formula
+Pedialyte,Dehydration,Brand of electrolyte solution
+Sports drink,Dehydration,Contains sugar
+Glucose tablets,Low blood sugar,Fast-acting
+Honey,Cough,Not for infants under 1 year
+Throat spray,Sore throat,Topical anesthetic
+Chloraseptic spray,Sore throat,Brand of throat spray
+Menthol lozenges,Sore throat,Soothing
+Zinc lozenges,Cold symptoms,May shorten duration
+Echinacea,Cold symptoms,Herbal supplement
+Elderberry,Cold symptoms,Herbal supplement
+Oscillococcinum,Flu symptoms,Homeopathic
+Arnica,Bruising,Homeopathic
+Aconitum,Cold symptoms,Homeopathic
+Belladonna,Fever,Homeopathic
+Chamomile,GI upset,Herbal tea
+Peppermint oil,GI upset,Herbal supplement
+Ginger,Nausea,Herbal supplement
+Turmeric,Inflammation,Herbal supplement
+Cinnamon,Blood sugar,Herbal supplement
+Garlic,Heart health,Herbal supplement
+Ginkgo biloba,Memory,Herbal supplement
+Ginseng,Energy,Herbal supplement
+St. John's wort,Depression,Herbal supplement
+Kava,Anxiety,Herbal supplement
+Ashwagandha,Stress,Herbal supplement
+Rhodiola,Stress,Herbal supplement
+L-theanine,Relaxation,Supplement
+5-HTP,Mood,Supplement
+SAM-e,Mood,Supplement
+Creatine,Muscle building,Supplement
+Whey protein,Muscle building,Supplement
+Casein protein,Muscle building,Supplement
+Soy protein,Muscle building,Supplement
+Pea protein,Muscle building,Supplement
+Collagen,Joint health,Supplement
+Biotin,Hair/skin/nails,Supplement
+Niacin,Cholesterol,Supplement
+Red yeast rice,Cholesterol,Herbal supplement
+Plant sterols,Cholesterol,Supplement
+Fiber supplement,Constipation,Various forms
+Inulin,Fiber supplement,Prebiotic
+Wheat dextrin,Fiber supplement,Prebiotic
+Guar gum,Fiber supplement,Prebiotic
+Methylsulfonylmethane,Joint health,Supplement
+Hyaluronic acid,Joint health,Supplement
+Lutein,Eye health,Supplement
+Zeaxanthin,Eye health,Supplement
+Bilberry,Eye health,Herbal supplement
+Astaxanthin,Antioxidant,Supplement
+Resveratrol,Antioxidant,Supplement
+Quercetin,Antioxidant,Supplement
+Curcumin,Antioxidant,From turmeric
+Milk thistle,Liver health,Herbal supplement
+Dandelion root,Liver health,Herbal supplement
+Artichoke extract,Liver health,Herbal supplement
+Silymarin,Liver health,From milk thistle
+Aloe latex,Constipation,Not recommended
+Senna tea,Constipation,Herbal tea
+Cascara sagrada,Constipation,Herbal supplement
+Slippery elm,GI health,Herbal supplement
+Marshmallow root,GI health,Herbal supplement
+Licorice root,GI health,Herbal supplement
+Activated charcoal,Poisoning,Use as directed
+Kaolin,Diarrhea,Use as directed
+Attapulgite,Diarrhea,Use as directed
+Cholestyramine,Diarrhea,Prescription
+Lactobacillus,Probiotic,Live bacteria
+Saccharomyces boulardii,Probiotic,Live yeast
+Bifidobacterium,Probiotic,Live bacteria
+Acidophilus,Probiotic,Live bacteria
+Serrapeptase,Sinus health,Supplement
+N-acetylcysteine,Mucus thinning,Supplement
+Bromelain,Sinus health,Enzyme supplement
+Papain,Digestion,Enzyme supplement
+Pancreatin,Digestion,Enzyme supplement
+Betaine HCl,Digestion,Supplement
+Ox bile,Digestion,Supplement
+Digestive bitters,Digestion,Herbal supplement
+Apple cider vinegar,Digestion,Herbal supplement
+Magnesium citrate,Constipation,Supplement
+Magnesium oxide,Constipation,Supplement
+Potassium citrate,Kidney stones,Supplement
+Sodium citrate,Urinary alkalinizer,Supplement
+Methenamine hippurate,UTI prevention,Prescription
+Phenazopyridine hydrochloride,Urinary pain,May discolor urine
+D-mannose,UTI prevention,Supplement
+Cranberry juice,UTI prevention,Limited evidence
+Blueberry extract,UTI prevention,Herbal supplement
+Pumpkin seed extract,Urinary health,Herbal supplement
+Saw palmetto extract,Prostate health,Herbal supplement
+Pygeum,Prostate health,Herbal supplement
+Beta-sitosterol,Prostate health,Supplement
+Lycopene,Prostate health,Supplement
+Selenium,Antioxidant,Supplement
+Zinc,Immune support,Supplement
+Copper,Supplement,Use as directed
+Chromium,Blood sugar,Supplement
+Manganese,Supplement,Use as directed
+Molybdenum,Supplement,Use as directed
+Iodine,Thyroid health,Supplement
+Selenium yeast,Thyroid health,Supplement
+L-tyrosine,Thyroid health,Supplement
+L-carnitine,Energy,Supplement
+CoQ10,Energy,Supplement
+Alpha-lipoic acid,Antioxidant,Supplement
+Glutathione,Antioxidant,Supplement
+NADH,Energy,Supplement
+PQQ,Energy,Supplement
+DMAE,Memory,Supplement
+Phosphatidylserine,Memory,Supplement
+Huperzine A,Memory,Supplement
+Vinpocetine,Memory,Supplement
+Bacopa monnieri,Memory,Herbal supplement
+Gotu kola,Memory,Herbal supplement
+Lion's mane,Memory,Herbal supplement
+Cordyceps,Energy,Herbal supplement
+Reishi,Immune support,Herbal supplement
+Shiitake,Immune support,Herbal supplement
+Maitake,Immune support,Herbal supplement
+Turkey tail,Immune support,Herbal supplement
+Chaga,Immune support,Herbal supplement
+Agaricus blazei,Immune support,Herbal supplement
+Beta-glucan,Immune support,Supplement
+Colostrum,Immune support,Supplement
+Lactoferrin,Immune support,Supplement
+Transfer factor,Immune support,Supplement
+Ester-C,Immune support,Vitamin C form
+Buffered vitamin C,Immune support,Less acidic
+Liposomal vitamin C,Immune support,Enhanced absorption
+Vitamin E,Antioxidant,Supplement
+Vitamin K,Bone health,Supplement
+Vitamin K2,Bone health,Supplement
+Vitamin A,Vision,Supplement
+Beta-carotene,Vision,Supplement
+Retinol,Vision,Vitamin A form
+Choline,Brain health,Supplement
+Inositol,Brain health,Supplement
+Taurine,Energy,Supplement
+L-arginine,Heart health,Supplement
+L-citrulline,Heart health,Supplement
+L-glutamine,Muscle recovery,Supplement
+L-leucine,Muscle building,Supplement
+L-isoleucine,Muscle building,Supplement
+L-valine,Muscle building,Supplement
+BCAA,Muscle building,Branched-chain amino acids
+HMB,Muscle building,Supplement
+Beta-alanine,Muscle endurance,Supplement
+Citrulline malate,Muscle endurance,Supplement
+Agmatine,Muscle pump,Supplement
+Yohimbine,Energy,Supplement
+Caffeine,Energy,Stimulant
+Green tea extract,Energy,Herbal supplement
+Guarana,Energy,Herbal supplement
+Yerba mate,Energy,Herbal supplement
+Theobromine,Energy,Stimulant
+Synephrine,Energy,Stimulant
+Raspberry ketones,Weight loss,Supplement
+Garcinia cambogia,Weight loss,Herbal supplement
+Conjugated linoleic acid,Weight loss,Supplement
+Glucomannan,Weight loss,Fiber supplement
+White kidney bean extract,Weight loss,Carb blocker
+Chitosan,Weight loss,Fat blocker
+Apple pectin,Weight loss,Fiber supplement
+Psyllium husk,Weight loss,Fiber supplement
+Hoodia,Appetite suppressant,Herbal supplement
+Saffron extract,Appetite suppressant,Herbal supplement
+Irvingia gabonensis,Weight loss,Herbal supplement
+Coleus forskohlii,Weight loss,Herbal supplement
+Chromium picolinate,Weight loss,Supplement
+L-carnitine tartrate,Weight loss,Supplement
+MCT oil,Weight loss,Medium-chain triglycerides
+Coconut oil,Weight loss,Medium-chain triglycerides
+Flaxseed oil,Omega-3,Supplement
+Hemp seed oil,Omega-3,Supplement
+Pumpkin seed oil,Omega-3,Supplement
+Evening primrose oil,Women's health,Supplement
+Borage oil,Women's health,Supplement
+Black cohosh,Menopause,Herbal supplement
+Dong quai,Menopause,Herbal supplement
+Red clover,Menopause,Herbal supplement
+Chasteberry,Menstrual health,Herbal supplement
+Maca root,Menstrual health,Herbal supplement
+Vitex,Menstrual health,Herbal supplement
+Wild yam,Menstrual health,Herbal supplement
+Fenugreek,Breastfeeding,Herbal supplement
+Blessed thistle,Breastfeeding,Herbal supplement
+Goat's rue,Breastfeeding,Herbal supplement
+Shatavari,Breastfeeding,Herbal supplement
+Alfalfa,Breastfeeding,Herbal supplement
+Lecithin,Breastfeeding,Supplement
+Brewer's yeast,Breastfeeding,Supplement
+Oatmeal,Breastfeeding,Food
+Barley,Breastfeeding,Food
+Fennel,Breastfeeding,Herbal supplement
+Anise,Breastfeeding,Herbal supplement
+Caraway,Breastfeeding,Herbal supplement
+Milk thistle,Breastfeeding,Herbal supplement
+Dandelion,Breastfeeding,Herbal supplement
+Parsley,Breastfeeding,Herbal supplement
+Sage,Breastfeeding,Herbal supplement
+Peppermint,Breastfeeding,Herbal supplement
