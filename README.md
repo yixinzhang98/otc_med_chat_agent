@@ -1,5 +1,7 @@
 # OTC Medication Chat Agent 💊
 
+Author: Yixin Zhang
+
 An intelligent chat agent that helps users find appropriate over-the-counter medications based on symptoms and common use cases. For educational purposes only—this is not a substitute for professional medical advice.
 
 ## Features
