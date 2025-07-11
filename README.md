@@ -30,3 +30,5 @@ Bot: You might consider lozenges for throat relief and acetaminophen for fever. 
 
 ## Disclaimer
 This tool is for **informational use only** and is not a substitute for medical advice.
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/88d4295c-a8a3-45b2-9fb0-f7145516ca98" />
