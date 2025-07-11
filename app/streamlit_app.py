@@ -58,3 +58,12 @@ else:
     if st.button("🔄 Start Over"):
         del st.session_state.chat_session
         st.rerun()
+
+#    # GPT suggestion
+#     st.subheader("🧠 GPT-Powered Suggestion")
+#     with st.spinner("Asking the AI doctor..."):
+#         try:
+#             gpt_output = gpt_recommendation(prompt)
+#             st.markdown(gpt_output)
+#         except Exception as e:
+#             st.error(f"GPT request failed: {e}")
